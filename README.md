@@ -24,3 +24,8 @@ First of all, I am **a python developer** since 2020. I can code other languages
 ## Top Langs
 
 [![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Ilya484&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+## Code Wars
+
+![Code](https://www.codewars.com/users/Ilya484/badges/large)
