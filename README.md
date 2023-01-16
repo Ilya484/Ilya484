@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ilya Zhenetskij
 
 ## About me
-First of all, I am **a python developer** since 2020. I also speak six other programming languages.
+First of all, I am **a python developer** since 2020. I can code other languages (look "Skills").
 
 ## Skills
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="40"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="40"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="40"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="40"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="40"> 
