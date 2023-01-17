@@ -12,10 +12,6 @@ First of all, I am **a python developer** since 2020. I can code other languages
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilya484&show_icons=true&theme=radical)
-
-<br>
-
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ilya484)](https://git.io/streak-stats)
 
