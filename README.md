@@ -17,7 +17,7 @@ First of all, I am **a python developer** since 2020. I can code other languages
 <br>
 
 ## GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ilya484)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ilya484)](https://git.io/streak-stats)
 
 <br>
 
