@@ -13,13 +13,13 @@ First of all, I am **a python developer** since 2020. I can code other languages
 <br>
 
 ## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ilya484)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ilyazheprog)](https://git.io/streak-stats)
 
 <br>
 
 ## Top Langs
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Ilya484&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ilyazheprog&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## Code Wars
